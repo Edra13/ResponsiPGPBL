@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Gili Trawangan",
+    "image": "https://happytour.id/wp-content/uploads/2019/10/gili-trawangan.jpg",
+    "location": "Gili Indah, Pemenang, North Lombok Regency",
+    "latitude": -8.349823,
+    "longitude": 116.035885,
+    "distance": "60,3 km to Bangsal Port",
+    "populars": "Snorkeling, diving, sunset viewing",
+    "spots": "Sunset Point, Ombak Sunset Beach",
+    "link": "https://www.wisatadilombok.com/2020/03/wisata-gili-trawangan.html"
+  },
+  {
+    "id": 2,
+    "name": "Gili Meno",
+    "image": "https://www.islander.io/wp-content/uploads/wpallimport/files/places/output1150w/Gili%20Meno.jpg",
+    "location": "Gili Indah, Pemenang, North Lombok Regency",
+    "latitude": -8.350095,
+    "longitude": 116.057107,
+    "distance": "60,3 km to Bangsal Port",
+    "populars": "Snorkeling, turtle watching, beach relaxation",
+    "spots": "Gili Meno Turtle Sanctuary, Nest Statue (underwater sculpture)",
+    "link": "https://torch.id/blogs/news-and-updates/wisata-pulau-gili-meno?srsltid=AfmBOoraOuYH17rqIKT1C7AxwedzETkf8wmBhGB7g_rKybcer9DkkREf"
+  },
+  {
+    "id": 3,
+    "name": "Gili Air",
+    "image": "https://content.r9cdn.net/rimg/dimg/d1/4b/58de3c69-lm-168929-1722ad9e0a3.jpg?width=1366&height=768&xhint=2891&yhint=1677&crop=true",
+    "location": "Gili Indah, Pemenang, North Lombok Regency",
+    "latitude": -8.356983,
+    "longitude": 116.081814,
+    "distance": "60,3 km to Bangsal Port",
+    "populars": "Snorkeling, yoga, paddleboarding",
+    "spots": "Eastern Beach (sunrise) and Western Beach (sunset)",
+    "link": "https://indonesiakaya.com/pustaka-indonesia/inilah-gili-air-yang-sepi-nan-mempesona/"
+  },
+  {
+    "id": 4,
+    "name": "Gili Nanggu",
+    "image": "https://asset.kompas.com/crops/7xPBQM2NmVn3jJs-RW4SY6bLQcI=/52x0:952x600/1200x800/data/photo/2023/10/18/652f67d6247da.png",
+    "location": "Sekotong Barat, Sekotong, West Lombok Regency",
+    "latitude": -8.7177347,
+    "longitude": 115.9876907,
+    "distance": "50,5 km to Tanjung Kelor Boat Transport Penyeberangan Gili",
+    "populars": "Snorkeling (colorful reefs), fishing, swimming",
+    "spots": "White Sandy Beach",
+    "link": "https://denpasar.kompas.com/read/2023/12/12/192401278/gili-nanggu-di-lombok-keindahan-aktivitas-dan-cara?page=all"
+  },
+  {
+    "id": 5,
+    "name": "Gili Kedis",
+    "image": "https://atourin.obs.ap-southeast-3.myhuaweicloud.com/images/destination/lombok/gili-kedis-profile1645604171.png?x-image-process=image/resize,p_100,limit_1/imageslim",
+    "location": "Sekotong Barat, Sekotong, West Lombok Regency",
+    "latitude": -8.7306081,
+    "longitude": 116.0254028,
+    "distance": "50,5 km to Tanjung Kelor Boat Transport Penyeberangan Gili",
+    "populars": "Snorkeling, sunbathing, picnics",
+    "spots": "Walk around the entire island in 10 minutes!",
+    "link": "https://atourin.com/destination/lombok-barat/gili-kedis"
+  },
+  {
+    "id": 6,
+    "name": "Gili Asahan",
+    "image": "https://getlost.id/wp-content/uploads/2022/01/@giliasahanecolodge.jpg",
+    "location": "Sekotong Tengah, West Lombok Regency",
+    "latitude": -8.738535,
+    "longitude": 115.887049,
+    "distance": "75,8 km to Transat Port",
+    "populars": "Snorkeling, diving, light trekking",
+    "spots": "Secluded Beaches",
+    "link": "https://www.lomboktourplus.com/gili-asahan-lombok/"
+  },
+  {
+    "id": 7,
+    "name": "Gili Pasir",
+    "image": "https://cdn.rri.co.id/berita/Mataram/o/1727143790265-gili_pasir/7fbzvpgiz4najc3.jpeg",
+    "location": "Labuhan Pandan, Sambelia, East Lombok Regency",
+    "latitude": -8.44384,
+    "longitude": 116.7483517,
+    "distance": "41,0 km to Tanjung Luar Port",
+    "populars": "Photography, light snorkeling",
+    "spots": "Sandbar that appears only during low tide",
+    "link": "https://atourin.com/destination/lombok-timur/gili-pasir"
+  }
+]
